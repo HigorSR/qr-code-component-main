@@ -1,4 +1,4 @@
-# Results Summary Component
+# QR Code Component
 
 Este é um projeto [Next.js](https://nextjs.org/) de um Componente de qr-code baseado em um desafio do [FrontEnd-Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
 
